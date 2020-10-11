@@ -1,12 +1,12 @@
 
 	<?php
-	$hostName = '3.21.168.200';
+	$hostName = '3.21.168.200';Khah Tran
 	// khai báo biến username
 	$userName = 'root';
 	//khai báo biến password
 	$passWord = 'admin';
 	// khai báo biến databaseName
-	$databaseName = 'demo';
+	$databaseName = 'demo1';
 	// khởi tạo kết nối
 	try {
 	    $connect = new PDO('mysql:host=' . $hostName . ';dbname=' . $databaseName, $userName, $passWord);
