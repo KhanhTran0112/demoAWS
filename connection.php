@@ -6,7 +6,7 @@
 	//khai báo biến password
 	$passWord = 'admin';
 	// khai báo biến databaseName
-	$databaseName = 'demo1';
+	$databaseName = 'demo';
 	// khởi tạo kết nối
 	try {
 	    $connect = new PDO('mysql:host=' . $hostName . ';dbname=' . $databaseName, $userName, $passWord);
