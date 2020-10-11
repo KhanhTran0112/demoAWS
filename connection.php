@@ -1,6 +1,6 @@
 
 	<?php
-	$hostName = '3.21.168.200';Khah Tran
+	$hostName = '3.21.168.200';
 	// khai báo biến username
 	$userName = 'root';
 	//khai báo biến password
